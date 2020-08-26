@@ -1,1 +1,1 @@
-# CS-188-Projects
+# CS-188-Artificial Intelligence-Projects
